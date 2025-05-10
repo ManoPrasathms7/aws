@@ -1,1 +1,20 @@
 This is a Java script
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple JavaScript Example</title>
+</head>
+<body>
+
+<h2>JavaScript Button Example</h2>
+
+<button onclick="showMessage()">Click Me</button>
+
+<script>
+    function showMessage() {
+        alert("Hello! You clicked the button.");
+    }
+</script>
+
+</body>
+</html>
